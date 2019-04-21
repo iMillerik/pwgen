@@ -1,0 +1,12 @@
+{
+	"settings": {
+		"letters": "Буквы",
+		"numbers": "Цифры",
+		"symbols": "Символы"
+	},
+
+	"copied": "Скопировано!",
+
+	"sourceCode": "Исходный код",
+	"author": "Автор"
+}

@@ -1,0 +1,12 @@
+{
+	"settings": {
+		"letters": "Letters",
+		"numbers": "Numbers",
+		"symbols": "Symbols"
+	},
+
+	"copied": "Copied!",
+
+	"sourceCode": "Source Code",
+	"author": "Author"
+}
