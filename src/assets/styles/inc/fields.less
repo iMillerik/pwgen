@@ -102,12 +102,12 @@ button {
 		}
 	}
 
-	&:active {
-		opacity: .8;
-		
-		@media(hover: none) {
+	@media(hover: none) {
+		transition: .3s;
+
+		&:active {
+			opacity: .8;
 			transform: scale(0.97);
 		}
-
 	}
 }

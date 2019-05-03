@@ -1,5 +1,5 @@
 module.exports = {
-  publicPath: '/',
+  publicPath: undefined,
 
   css: {
     sourceMap: true
@@ -16,5 +16,7 @@ module.exports = {
   		template: './src/index.pug',
   		entry: './src/main.js'
   	}
-  }
+  },
+
+  outputDir: 'docs'
 }
